@@ -1,0 +1,7 @@
+.mainMenu {
+    position: absolute;
+    top: 72px;
+    left: 0;
+    width: 350px;
+    height: calc(100% - 72px);
+}
